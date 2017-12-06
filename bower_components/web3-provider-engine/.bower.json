@@ -1,0 +1,30 @@
+{
+  "name": "web3-provider-engine",
+  "description": "",
+  "main": "dist/ProviderEngine.js",
+  "authors": [
+    "\"\""
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Ethereum",
+    "Web3",
+    "Provider"
+  ],
+  "homepage": "https://github.com/MetaMask/provider-engine",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "dce3f8d701",
+  "_resolution": {
+    "type": "commit",
+    "commit": "dce3f8d701eb1fcd794c86f2debb6af752aa44b3"
+  },
+  "_source": "https://github.com/denisgranha/provider-engine.git",
+  "_target": "dce3f8d701eb1fcd794c86f2debb6af752aa44b3",
+  "_originalSource": "https://github.com/denisgranha/provider-engine.git"
+}
