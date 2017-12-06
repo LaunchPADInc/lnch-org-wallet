@@ -1,0 +1,13 @@
+{
+  "name": "entropy-collector",
+  "homepage": "https://github.com/vibornoff/entropy-collector.js",
+  "_release": "570f9333fb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "570f9333fb66982a3c26961badb188d2dd4cbfe0"
+  },
+  "_source": "https://github.com/vibornoff/entropy-collector.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/vibornoff/entropy-collector.js.git"
+}
