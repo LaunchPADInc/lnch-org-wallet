@@ -1,7 +1,7 @@
 Ethereum Multisignature Wallet UI
 ===================
 
-A web user interface for the [MultiSigWallet](https://github.com).
+A web user interface for the [MultiSigWallet](https://github.com/LaunchPADInc/multisig-wallet-deployment).  The purpose of a web application interface is in order to allow users to access the multisigwallet's features without the need for a full installment and download of the entire Ethereum blockchain on their local machine.
 
 Requirements
 -------------
