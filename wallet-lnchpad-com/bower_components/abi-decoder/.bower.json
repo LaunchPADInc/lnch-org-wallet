@@ -1,0 +1,32 @@
+{
+  "name": "abi-decoder",
+  "description": "Nodejs and Javascript library for decoding data params and events from etherem transactions\"",
+  "main": "dist/abiDecoder.js",
+  "authors": [
+    "denis@gnosis.pm"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "ethereum",
+    "abi",
+    "decode"
+  ],
+  "homepage": "https://github.com/ConsenSys/abi-decoder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "1.0.8",
+  "_release": "1.0.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.8",
+    "commit": "b0b2c7f50186c3e1d023c0266cbccfce827d3333"
+  },
+  "_source": "https://github.com/ConsenSys/abi-decoder.git",
+  "_target": "1.0.8",
+  "_originalSource": "abi-decoder"
+}

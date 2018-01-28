@@ -1,0 +1,14 @@
+{
+  "name": "eth-lightwallet",
+  "homepage": "https://github.com/ConsenSys/eth-lightwallet",
+  "version": "2.5.6",
+  "_release": "2.5.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.5.6",
+    "commit": "ada8c674aa7b5af821c4ca7fd137037ce0fbf618"
+  },
+  "_source": "https://github.com/ConsenSys/eth-lightwallet.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/ConsenSys/eth-lightwallet.git"
+}
