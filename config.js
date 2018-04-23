@@ -4,10 +4,10 @@ var txDefaultOrig =
   gasPrice: 18000000000,
   ethereumNode: "https://mainnet.infura.io:443",
   alertNode: {
-    url : "https://alerts.lnchpad.com",
+    url : "https://alerts.lnch.org",
     authCode: null,
     name: "Mainnet",
-    managementPage: "https://alerts.lnchpad.com/api/alert/manage/?code={auth-code}",
+    managementPage: "https://alerts.lnch.org/api/alert/manage/?code={auth-code}",
     managementRoute: "api/alert/manage"
   },
   connectionChecker:{
@@ -133,18 +133,18 @@ var txDefault = {
   ],
   alertNodes: {
     'mainnet': {
-      url: 'https://alerts.lnchpad.com',
+      url: 'https://alerts.lnch.org',
       authCode: null,
       name: 'Mainnet',
       networkId: 1,
-      managementPage: "https://alerts.lnchpad.com/api/alert/manage/?code={auth-code}"
+      managementPage: "https://alerts.lnch.org/api/alert/manage/?code={auth-code}"
     },
     'kovan': {
-      url: 'https://testalerts.lnchpad.com',
+      url: 'https://testalerts.lnch.org',
       authCode: null,
       name: 'Kovan',
       networkId: 42,
-      managementPage: "https://testalerts.lnchpad.com/api/alert/manage/?code={auth-code}"
+      managementPage: "https://testalerts.lnch.org/api/alert/manage/?code={auth-code}"
     }
   },
   walletFactoryAddresses: {

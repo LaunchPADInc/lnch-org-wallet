@@ -1280,8 +1280,8 @@ angular.module('multiSigWeb').run(['$templateCache', function($templateCache) {
     "<div class=\"modal-body\">\n" +
     "  <p>\n" +
     "    Don't use the wallet hosted at\n" +
-    "    <a href=\"http://lnchpad.com/wallet/\" class=\"prevent-focus\" target=\"_blank\">http://lnchpad.com/wallet/</a> to sign transactions.\n" +
-    "    Use <a href=\"http://lnchpad.com/wallet/\" target=\"_blank\">http://lnchpad.com/wallet/</a> only to\n" +
+    "    <a href=\"https://lnch.org/wallet/\" class=\"prevent-focus\" target=\"_blank\">https://lnch.org/wallet/</a> to sign transactions.\n" +
+    "    Use <a href=\"https://lnch.org/wallet/\" target=\"_blank\">https://lnch.org/wallet/</a> only to\n" +
     "    check the status of your wallet. Use a locally installed version for signing.\n" +
     "    A version can be obtained <a href=\"https://github.com/LaunchPADInc\" target=\"_blank\">here</a>.\n" +
     "  </p>\n" +
