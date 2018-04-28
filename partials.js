@@ -1283,10 +1283,10 @@ angular.module('multiSigWeb').run(['$templateCache', function($templateCache) {
     "    <a href=\"https://lnch.org/wallet/\" class=\"prevent-focus\" target=\"_blank\">https://lnch.org/wallet/</a> to sign transactions.\n" +
     "    Use <a href=\"https://lnch.org/wallet/\" target=\"_blank\">https://lnch.org/wallet/</a> only to\n" +
     "    check the status of your wallet. Use a locally installed version for signing.\n" +
-    "    A version can be obtained <a href=\"https://github.com/LaunchPADInc\" target=\"_blank\">here</a>.\n" +
+    "    A version can be obtained <a href=\"https://github.com/LaunchPADInc/lnch-org-wallet\" target=\"_blank\">here</a>.\n" +
     "  </p>\n" +
     "  <p>\n" +
-    "    All smart contracts have been audited carefully multiple times.\n" +
+    "    All smart contracts have not been audited carefully multiple times.\n" +
     "    However, all contracts are <strong>WITHOUT ANY WARRANTY;</strong> without even\n" +
     "    the implied warranty of <strong>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE</strong>.\n" +
     "  </p>\n" +
